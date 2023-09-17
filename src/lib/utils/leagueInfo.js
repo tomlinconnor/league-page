@@ -24,7 +24,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     {
  //     "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "466321603727192064"
+      "managerID": "466321603727192064",
       "name": "Jack Genard",
  //     "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Dallas", // (optional)
@@ -47,7 +47,7 @@ export const managers = [
     },
     {
       "roster": 2,// ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "477973406533283840"
+      "managerID": "477973406533283840",
       "name": "Caleb White",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Denton", // (optional)
@@ -70,7 +70,7 @@ export const managers = [
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "478397362620854272"
+      "managerID": "478397362620854272",
       "name": "Reilly Polster",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Las Colinas", // (optional)
@@ -93,7 +93,7 @@ export const managers = [
     },
     {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "720351493693177856"
+      "managerID": "720351493693177856",
       "name": "Jacob Jones",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Houston", // (optional)
@@ -116,7 +116,7 @@ export const managers = [
     },
     {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "728338056037445632"
+      "managerID": "728338056037445632",
       "name": "Jacob Summerlin",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Lewisville", // (optional)
@@ -139,7 +139,7 @@ export const managers = [
     },
     {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "728339157713301504"
+      "managerID": "728339157713301504",
       "name": "Connor Tomlin",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Denton", // (optional)
@@ -162,7 +162,7 @@ export const managers = [
     },
     {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "728339821982011392"
+      "managerID": "728339821982011392",
       "name": "Will Koberick",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ft. Worth", // (optional)
@@ -185,7 +185,7 @@ export const managers = [
     }, 
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "728341693589495808"
+      "managerID": "728341693589495808",
       "name": "Zach Wentworth",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Little Rock", // (optional)
@@ -208,7 +208,7 @@ export const managers = [
     },  
     {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "729415684215431168"
+      "managerID": "729415684215431168",
       "name": "Trevor Caples",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Denton", // (optional)
@@ -231,7 +231,7 @@ export const managers = [
     },
     {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "733083518636224512"
+      "managerID": "733083518636224512",
       "name": "Carson Kennedy",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Grand Prairie", // (optional)
@@ -254,7 +254,7 @@ export const managers = [
     },    
     {
       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "843305226160168960"
+      "managerID": "843305226160168960",
       "name": "Garrison Balcar",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ft. Worth", // (optional)
@@ -277,7 +277,7 @@ export const managers = [
     },  
     {
       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID": "861456066033065984"
+      "managerID": "861456066033065984",
       "name": "Alex Mahavier",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Denton", // (optional)
